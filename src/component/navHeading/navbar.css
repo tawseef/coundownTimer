@@ -1,0 +1,11 @@
+.heading {
+  font-size: 25px;
+  -webkit-text-stroke-width: 2px;
+  -webkit-text-stroke-color: black;
+  color: white;
+}
+
+.subHeading {
+  /* text-shadow: 0 0 3px #000000, 0 0 15px #000000; */
+  color:red;
+}
